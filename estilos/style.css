@@ -19,6 +19,7 @@ main {
 body {
     background: url('../imagens/fundo-madeira.jpg') no-repeat top center;
     background-attachment: fixed;
+    background-size: cover;
 }
 
 section#telefone {
